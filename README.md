@@ -10,7 +10,7 @@ Lootcode is a collection of self-written DSA problems that are immerse and appro
 
 # How we built it
 
-We created Lootcode with various web technologies in the T3 stack, such as Typescript, Tailwind, tRPC, and Next.js. We also leveraged the Zx shell and Docker to procedurally create isolated sandbox environments to safely perform remote code execution for the user to give feedback on solutions much faster than outsourcing to external APIs like Judge0.
+We created Lootcode with various web technologies in the T3 stack, such as Typescript, Tailwind, gRPC, and Next.js. We also leveraged the Zx shell and Docker to procedurally create isolated sandbox environments to safely perform remote code execution for the user to give feedback on solutions much faster than outsourcing to external APIs like Judge0.
 
 # Challenges we ran into
 
